@@ -18,7 +18,7 @@ redirect_from:
   * Advisor: Thai Le
 
 **University of Mississippi | 2023 - 2024**   
-*R.A in Computer Science*
+*R.A in Computer and Information Science*
   * Advisor: Thai Le
   * GPA: 4.0/4.0
 
