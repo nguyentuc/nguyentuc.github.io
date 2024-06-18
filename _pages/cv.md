@@ -13,7 +13,7 @@ redirect_from:
 ====== -->
 <h2 style="color:#87CEEB">Education</h2>
 
-**Indiana University Bloomington| Fall 2024**   
+**Indiana University Bloomington | Fall 2024**   
 *Ph.D. in Computer Science*
   * Advisor: Thai Le
 
@@ -40,10 +40,6 @@ redirect_from:
 <h2 style="color:#87CEEB">Publications</h2>
 <hr>
 
-**ADAPTERS MIXUP: Mixing Parameter-Efficient Adapters to Enhance the Adversarial Robustness of Fine-tuned Pre-trained Text Classifiers**   
-*__Tuc Nguyen__, Thai Le*   
-Arxiv, 2024.
-
 **Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning**   
 *__Tuc Nguyen__, Thai Le*   
 The Proceeding of 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
@@ -64,10 +60,6 @@ The Proceeding of 62nd Annual Meeting of the Association for Computational Lingu
 ====== -->
 <h2 style="color:#87CEEB">Honors and Awards</h2>
 <hr>
-
-**Amazon Student Doctoral Fellowship | 2022-2023**   
-*Department of Computer Science, UCLA*   
-Each year 12 doctoral students who work in the field of AI are selected as Amazon fellows. Amazon fellows receive full funding for one academic year to pursue independent research projects.
 
 **Best Presentation Award | 2019**   
 *School of Information and Communication Technology, HUST*   
