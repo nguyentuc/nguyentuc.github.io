@@ -1,12 +1,3 @@
-Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning
-
-Tuc Nguyen, Thai Le
-
-The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
-
-[paper](https://arxiv.org/abs/2402.10639) [code](#) [blog](#) [slide](#) [talk](#)
-
-
 ---
 title: "Paper Title Number 1"
 collection: publications
@@ -18,3 +9,8 @@ slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+
+Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning
+Tuc Nguyen, Thai Le
+The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
+[paper](https://arxiv.org/abs/2402.10639) [code](#) [blog](#) [slide](#) [talk](#)
