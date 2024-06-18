@@ -1,0 +1,46 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    <!--Paper title-->
+    <br>
+    <b>{{title}}</b>
+    <br>
+    <i>{{ post.authors }} </i>
+    <br>
+    {{ post.venue }}
+    <br>
+    {% if post.award %}<span style="color:#AA4A44">{{post.award}}</span><br>{% endif %}
+    <!--Paper link + Source code + Blog post + Slide + Talk-->
+    {% if post.paper %}[<a href="{{post.paper}}">paper</a>]{% endif %}
+    {% if post.code %}[<a href="{{post.code}}">code</a>]{% endif %}
+    {% if post.blog %}[<a href="{{post.blog}}">blog</a>]{% endif %}
+    {% if post.slide %}[<a href="{{post.slide}}">slide</a>]{% endif %}
+    {% if post.talk %}[<a href="{{post.talk}}">talk</a>]{% endif %}
+
+  </article>
+</div>
