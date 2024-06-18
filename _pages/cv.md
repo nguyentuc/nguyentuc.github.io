@@ -65,10 +65,11 @@ Proceeding of 62nd Annual Meeting of the Association for Computational Linguisti
 ====== -->
 <h2 style="color:#87CEEB">Honors and Awards</h2>
 <hr>
+
 **FNC Founders Graduate Fellowship | 2023**   
 *Department of Computer and Information Science, University of Mississippi*   
 
-** Scholarship for Master Student | 2021**   
+**Scholarship for Master Student | 2021**   
 *School of Information and Communication Technology, HUST* 
 
 **Best Presentation Award | 2019**   
