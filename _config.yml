@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "avatar.jpeg"
   name             : "Tuc Nguyen"
-  pronouns         : example: "he/him"  
+  pronouns         : "he/him"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Blomington, IN, USA"
   employer         : "Indiana University"
