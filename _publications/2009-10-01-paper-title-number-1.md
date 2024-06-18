@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "ClimaX: A foundation model for weather and climate"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publications/ClimaX
+venue: "The 40th International Conference on Machine Learning (ICML), 2023."
+award: "Best Paper at ICML Workshop on Synergy of Scientific and Machine Learning Modeling, Spotlight Oral at ICLR Workshop on AI and Climate Change"
+authors: '<b>Tung Nguyen</b>, Johannes Brandstetter, Ashish Kapoor, Jayesh K. Gupta*, Aditya Grover*'
+paper: "https://arxiv.org/abs/2301.10343"
+code: "https://github.com/microsoft/ClimaX"
+blog: "https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/"
+slide: "https://docs.google.com/presentation/d/18D6gjOXWRgp5l_IwY72wZZM8qd72TOuJPGLYh8-jh80/edit?usp=sharing"
+talk: "https://www.youtube.com/watch?v=0pV0K1A9RvY&t=1s"
 ---
+
 
 Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning
 Tuc Nguyen, Thai Le
