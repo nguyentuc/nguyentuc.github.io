@@ -17,6 +17,11 @@ redirect_from:
 *Ph.D. in Computer Science*
   * Advisor: Thai Le
 
+**University of Mississippi | 2023 - 2024**   
+*R.A in Computer Science*
+  * Advisor: Thai Le
+  * GPA: 4.0/4.0
+
 **Hanoi University of Science and Technology (HUST) | 2014-2020**   
 *Bachelor and Master in Computer Science*
   * Bachelor Thesis: Neural Poisson Matrix Factorization for Collaborative Filtering
@@ -60,6 +65,11 @@ Proceeding of 62nd Annual Meeting of the Association for Computational Linguisti
 ====== -->
 <h2 style="color:#87CEEB">Honors and Awards</h2>
 <hr>
+**FNC Founders Graduate Fellowship | 2023**   
+*Department of Computer and Information Science, University of Mississippi*   
+
+** Scholarship for Master Student | 2021**   
+*School of Information and Communication Technology, HUST* 
 
 **Best Presentation Award | 2019**   
 *School of Information and Communication Technology, HUST*   
