@@ -48,6 +48,18 @@ redirect_from:
 **Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning**   
 *__Tuc Nguyen__, Thai Le*   
 Proceeding of 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
+
+**Learning Weighted Product Spaces Representations for Graphs of Heterogeneous Structure**   
+*__Tuc Nguyen__, Dung D.Le, Anh Ta*   
+ICLR on Geometrical and Topological Representation Learning (2022)
+
+**Pruning deep equilibrium models**   
+*Hoang Pham*, __Tuc Nguyen__*, Anh Ta, Dung D.Le*   
+ICML on Sparsity in Neural Network (2022)
+
+**Modeling the sequential behaviors of online users in Recommender System**   
+*__Tuc Nguyen__, Linh Ngo, Khoat Than*   
+Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications (2019)
   
 <!-- Preprints
 ====== -->
