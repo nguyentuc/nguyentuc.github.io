@@ -51,11 +51,11 @@ Proceeding of 62nd Annual Meeting of the Association for Computational Linguisti
   
 <!-- Preprints
 ====== -->
-<h2 style="color:#87CEEB">Under Review</h2>
+<!-- <h2 style="color:#87CEEB">Under Review</h2>
 <hr>
 
 **ADAPTERS MIXUP: Mixing Parameter-Efficient Adapters to Enhance the Adversarial Robustness of Fine-tuned Pre-trained Text Classifiers | 2024**   
-*__Tuc Nguyen__, Thai Le*
+*__Tuc Nguyen__, Thai Le* -->
 
   
 <!-- Projects
