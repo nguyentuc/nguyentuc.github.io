@@ -54,7 +54,7 @@ Proceeding of 62nd Annual Meeting of the Association for Computational Linguisti
 ICLR on Geometrical and Topological Representation Learning (2022)
 
 **Pruning deep equilibrium models**   
-*Hoang Pham*, __Tuc Nguyen__*, Anh Ta, Dung D.Le*   
+*Hoang Pham\*, __Tuc Nguyen__\*, Anh Ta, Dung D.Le*   
 ICML on Sparsity in Neural Network (2022)
 
 **Modeling the sequential behaviors of online users in Recommender System**   
