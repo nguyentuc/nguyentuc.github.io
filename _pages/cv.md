@@ -108,19 +108,3 @@ Artificial Intelligence and Machine Learning for Multi-Domain Operations Applica
   * **Programming Languages:** Python, C/C++, Java, JavaScript
   * **Libraries:** Pytorch, Tensorflow, Numpy, Matplotlib
   * **Developer Tools:** Git
-
-<!-- Certificates
-====== -->
-<h2 style="color:#87CEEB">Certificates</h2>
-<hr>
-
-**Reinforcement Learning Specialization by University of Alberta**
-* [Fundamentals of Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/ALXELAWTGVZX)
-* [Sample-based Learning Methods](https://www.coursera.org/account/accomplishments/certificate/Y85JLQBRWVPT)
-* [Prediction and Control with Function Approximation](https://www.coursera.org/account/accomplishments/certificate/BVBPXLCNSEM8)
-* [A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/account/accomplishments/certificate/FK5A3VHY2AWP)
-
-**Deep Learning Specialization by deeplearning.ai**
-  * [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/6BVE5M4WM989)
-  * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/VZ9QAABGA7N8)
-  * [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/VH32KS27NRJ5)
