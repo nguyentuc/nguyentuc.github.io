@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tuc Nguyen"
   avatar           : "avatar.jpeg"
-  bio              : "PhD student in CS at Indiana University."
-  location         : "Bloomington"
+  bio              : "PhD student in CS at Indiana University, Bloomington"
+  location         : #"Bloomington"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com.vn/citations?user=F9mgq3sAAAAJ&hl=en"
