@@ -104,8 +104,11 @@ Artificial Intelligence and Machine Learning for Multi-Domain Operations Applica
   * Run a seminar on fundamental machine learning models such as linear regressions, k-nearest neighbors, support vector machines and neural networks for new students
   * Help new students get hands-on experience with Tensorflow – a deep learning framework
 
-<!-- Technical Skills
-====== -->
+<h2 style="color:#87CEEB">Travel</h2>
+<hr>
+
+  * **NAACL 2024** Mexico City, Mexico
+
 <h2 style="color:#87CEEB">Technical Skills</h2>
 <hr>
 
