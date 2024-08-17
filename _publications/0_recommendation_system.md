@@ -1,5 +1,5 @@
 ---
-title: "Modeling the sequential behaviors of online users in recommender system"
+title: "Modeling the sequential behaviors of online users in Recommender System"
 collection: publications
 permalink: /publications/recommendation_system
 venue: " Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications, 2019"
