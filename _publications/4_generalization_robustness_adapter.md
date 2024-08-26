@@ -5,7 +5,7 @@ permalink: /publications/generation_robustness_adapter
 venue: "<b>[ACL 2024]</b> The Proceeding of 62nd Annual Meeting of the Association for Computational Linguistics"
 award: ""
 authors: '<b>Tuc Nguyen</b>, Thai Le'
-paper: "https://arxiv.org/abs/2402.10639"
+paper: "https://aclanthology.org/2024.acl-long.700/"
 code: ""
 blog: ""
 slide: ""
