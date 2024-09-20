@@ -51,11 +51,11 @@ arXiv, 2024
 
 **ADAPTERS MIXUP: Mixing Parameter-Efficient Adapters to Enhance the Adversarial Robustness of Fine-tuned Pre-trained Text Classifiers**   
 *__Tuc Nguyen__, Thai Le*   
-arXiv, 2024
+EMNLP 2024
 
 **Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning**   
 *__Tuc Nguyen__, Thai Le*   
-Proceeding of 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
+ACL 2024
 
 **Learning Weighted Product Spaces Representations for Graphs of Heterogeneous Structure**   
 *__Tuc Nguyen__, Dung D.Le, Anh Ta*   
