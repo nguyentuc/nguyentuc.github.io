@@ -51,7 +51,7 @@ arXiv, 2024
 
 **ADAPTERS MIXUP: Mixing Parameter-Efficient Adapters to Enhance the Adversarial Robustness of Fine-tuned Pre-trained Text Classifiers**   
 *__Tuc Nguyen__, Thai Le*   
-<span style="color: blue; font-weight: bold;">EMNLP 2024</span> <span style="color: pink; font-weight: bold;">Oral: 7.94%</span>
+<span style="color: blue; font-weight: bold;">EMNLP 2024</span> <span style="color: pink; font-weight: bold;">[Oral: 7.94%]</span>
 
 **Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning**   
 *__Tuc Nguyen__, Thai Le*   
