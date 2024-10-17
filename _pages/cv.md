@@ -9,6 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- Publications
+====== -->
+<h2 style="color:#87CEEB">Publications</h2>
+<hr>
+
+**NoMatterXAI: Generating "No Matter What" Alterfactual Examples for Explaining Black-Box Text Classification Models**   
+*__Tuc Nguyen__,  James Michels, Hua Shen, Thai Le*   
+arXiv, 2024
+
+**ADAPTERS MIXUP: Mixing Parameter-Efficient Adapters to Enhance the Adversarial Robustness of Fine-tuned Pre-trained Text Classifiers**   
+*__Tuc Nguyen__, Thai Le*   
+<span style="color: blue; font-weight: bold;">EMNLP 2024</span> <span style="color: orange; font-weight: bold;">[Oral: 7.94%]</span>
+
+**Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning**   
+*__Tuc Nguyen__, Thai Le*   
+<span style="color: red; font-weight: bold;">ACL 2024</span>
+
+**Learning Weighted Product Spaces Representations for Graphs of Heterogeneous Structure**   
+*__Tuc Nguyen__, Dung D.Le, Anh Ta*   
+ICLR on Geometrical and Topological Representation Learning (2022)
+
+**Pruning deep equilibrium models**   
+*Hoang Pham\*, __Tuc Nguyen__\*, Anh Ta, Dung D.Le, Long Tran-Thanh*   
+ICML on Sparsity in Neural Network (2022)
+
+**Modeling the sequential behaviors of online users in Recommender System**   
+*__Tuc Nguyen__, Linh Ngo, Khoat Than*   
+Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications (2019)
+  
 <!-- Education
 ====== -->
 <h2 style="color:#87CEEB">Education</h2>
@@ -40,35 +69,6 @@ redirect_from:
 *Data Science Lab (DSLab), HUST - website: [ds.soict.hust.edu.vn/](http://ds.soict.hust.edu.vn/)*
   * Supervisor: Khoat Than
 
-<!-- Publications
-====== -->
-<h2 style="color:#87CEEB">Publications</h2>
-<hr>
-
-**NoMatterXAI: Generating "No Matter What" Alterfactual Examples for Explaining Black-Box Text Classification Models**   
-*__Tuc Nguyen__,  James Michels, Hua Shen, Thai Le*   
-arXiv, 2024
-
-**ADAPTERS MIXUP: Mixing Parameter-Efficient Adapters to Enhance the Adversarial Robustness of Fine-tuned Pre-trained Text Classifiers**   
-*__Tuc Nguyen__, Thai Le*   
-<span style="color: blue; font-weight: bold;">EMNLP 2024</span> <span style="color: orange; font-weight: bold;">[Oral: 7.94%]</span>
-
-**Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning**   
-*__Tuc Nguyen__, Thai Le*   
-<span style="color: red; font-weight: bold;">ACL 2024</span>
-
-**Learning Weighted Product Spaces Representations for Graphs of Heterogeneous Structure**   
-*__Tuc Nguyen__, Dung D.Le, Anh Ta*   
-ICLR on Geometrical and Topological Representation Learning (2022)
-
-**Pruning deep equilibrium models**   
-*Hoang Pham\*, __Tuc Nguyen__\*, Anh Ta, Dung D.Le, Long Tran-Thanh*   
-ICML on Sparsity in Neural Network (2022)
-
-**Modeling the sequential behaviors of online users in Recommender System**   
-*__Tuc Nguyen__, Linh Ngo, Khoat Than*   
-Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications (2019)
-  
 <!-- Preprints
 ====== -->
 <!-- <h2 style="color:#87CEEB">Under Review</h2>

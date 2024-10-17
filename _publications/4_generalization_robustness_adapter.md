@@ -2,7 +2,7 @@
 title: "Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning"
 collection: publications
 permalink: /publications/generation_robustness_adapter
-venue: "<font color="red"><b>ACL 2024</b></font>"
+venue: "<b>ACL 2024 (Long Main)</b>"
 award: ""
 authors: '<b>Tuc Nguyen</b>, Thai Le'
 paper: "https://aclanthology.org/2024.acl-long.700/"
