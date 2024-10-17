@@ -7,6 +7,26 @@ redirect_from:
 ---
 
 {% include base_path %}
+  
+<!-- Education
+====== -->
+<h2 style="color:#87CEEB">Education</h2>
+
+**Indiana University Bloomington | Fall 2024**   
+*Ph.D. in Computer Science*
+  * Advisor: Thai Le
+
+**University of Mississippi | 2023 - 2024**   
+*R.A in Computer and Information Science*
+  * Advisor: Thai Le
+  * GPA: 4.0/4.0
+
+**Hanoi University of Science and Technology (HUST) | 2014-2020**   
+*Bachelor and Master in Computer Science*
+  * Bachelor Thesis: Neural Poisson Matrix Factorization for Collaborative Filtering
+  * Thesis advisor: Khoat Than
+  * Best Presentation Award, Graduated with Very Good Degree
+
 
 <!-- Publications
 ====== -->
@@ -36,25 +56,6 @@ ICML on Sparsity in Neural Network (2022)
 **Modeling the sequential behaviors of online users in Recommender System**   
 *__Tuc Nguyen__, Linh Ngo, Khoat Than*   
 Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications (2019)
-  
-<!-- Education
-====== -->
-<h2 style="color:#87CEEB">Education</h2>
-
-**Indiana University Bloomington | Fall 2024**   
-*Ph.D. in Computer Science*
-  * Advisor: Thai Le
-
-**University of Mississippi | 2023 - 2024**   
-*R.A in Computer and Information Science*
-  * Advisor: Thai Le
-  * GPA: 4.0/4.0
-
-**Hanoi University of Science and Technology (HUST) | 2014-2020**   
-*Bachelor and Master in Computer Science*
-  * Bachelor Thesis: Neural Poisson Matrix Factorization for Collaborative Filtering
-  * Thesis advisor: Khoat Than
-  * Best Presentation Award, Graduated with Very Good Degree
 
 <!-- Research experience
 ====== -->
@@ -111,7 +112,7 @@ Artificial Intelligence and Machine Learning for Multi-Domain Operations Applica
 <hr>
 
   **NAACL 2024:** Mexico City, Mexico
-  
+
   **EMNLP 2024:** Miami, Florida, USA
 
 <h2 style="color:#87CEEB">Technical Skills</h2>
