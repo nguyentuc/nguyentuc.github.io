@@ -111,7 +111,8 @@ Artificial Intelligence and Machine Learning for Multi-Domain Operations Applica
 <h2 style="color:#87CEEB">Travel</h2>
 <hr>
 
-  * **NAACL 2024:** Mexico City, Mexico
+  **NAACL 2024:** Mexico City, Mexico
+  **EMNLP 2024:** Miami, Florida, USA
 
 <h2 style="color:#87CEEB">Technical Skills</h2>
 <hr>
