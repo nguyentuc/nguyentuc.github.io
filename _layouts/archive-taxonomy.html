@@ -7,6 +7,15 @@ author_profile: false
   {% include sidebar.html %}
 
   <div class="archive">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8ZNWNQ9JMY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-8ZNWNQ9JMY');
+    </script>
     <h1 class="page__title">{{ page.title }}</h1>
     {% include base_path %}
     {% for post in page.posts %}
