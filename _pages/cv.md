@@ -35,7 +35,7 @@ redirect_from:
 
 **NoMatterXAI: Generating "No Matter What" Alterfactual Examples for Explaining Black-Box Text Classification Models**   
 *__Tuc Nguyen__,  James Michels, Hua Shen, Thai Le*   
-<span style="color: green; font-weight: bold;">EMNLP 2024</span>
+<span style="color: green; font-weight: bold;">AAAI 2025</span>
 
 **ADAPTERS MIXUP: Mixing Parameter-Efficient Adapters to Enhance the Adversarial Robustness of Fine-tuned Pre-trained Text Classifiers**   
 *__Tuc Nguyen__, Thai Le*   
