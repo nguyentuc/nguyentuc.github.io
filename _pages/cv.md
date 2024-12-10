@@ -69,14 +69,6 @@ Artificial Intelligence and Machine Learning for Multi-Domain Operations Applica
 *Data Science Lab (DSLab), HUST - website: [ds.soict.hust.edu.vn/](http://ds.soict.hust.edu.vn/)*
   * Supervisor: Khoat Than
 
-<!-- Preprints
-====== -->
-<!-- <h2 style="color:#87CEEB">Under Review</h2>
-<hr>
-
-**ADAPTERS MIXUP: Mixing Parameter-Efficient Adapters to Enhance the Adversarial Robustness of Fine-tuned Pre-trained Text Classifiers | 2024**   
-*__Tuc Nguyen__, Thai Le* -->
-
   
 <!-- Projects
 ====== -->
