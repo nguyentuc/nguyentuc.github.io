@@ -16,10 +16,10 @@ redirect_from:
 *Ph.D. in Computer Science*
   * Advisor: Thai Le
 
-**University of Mississippi | 2023 - 2024**   
+<!-- **University of Mississippi | 2023 - 2024**   
 *R.A in Computer and Information Science*
   * Advisor: Thai Le
-  * GPA: 4.0/4.0
+  * GPA: 4.0/4.0 -->
 
 **Hanoi University of Science and Technology (HUST) | 2014-2020**   
 *Bachelor and Master in Computer Science*
