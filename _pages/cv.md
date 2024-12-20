@@ -78,9 +78,11 @@ Artificial Intelligence and Machine Learning for Multi-Domain Operations Applica
 <h2 style="color:#87CEEB">Selected Honors and Awards</h2>
 <hr>
 
-**AAAI25 Student Scholarship Funding | 2024** 
+**AAAI-25 Student Scholarship | 2024** 
+*Travel scholarship funding for students given by AAAI-25*
 
 **Jetstream2 AI Fellow | 2024**  
+*UITS Research Technologies, Pervasive Technology Institute (PTI)*
 
 **FNC Founders Graduate Fellowship | 2023**   
 *Department of Computer and Information Science, University of Mississippi*   
