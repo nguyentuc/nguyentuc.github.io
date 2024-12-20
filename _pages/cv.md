@@ -75,8 +75,12 @@ Artificial Intelligence and Machine Learning for Multi-Domain Operations Applica
 
 <!-- Honors and Awards
 ====== -->
-<h2 style="color:#87CEEB">Honors and Awards</h2>
+<h2 style="color:#87CEEB">Selected Honors and Awards</h2>
 <hr>
+
+**AAAI25 Student Scholarship Funding | 2024** 
+
+**Jetstream2 AI Fellow | 2024**  
 
 **FNC Founders Graduate Fellowship | 2023**   
 *Department of Computer and Information Science, University of Mississippi*   
