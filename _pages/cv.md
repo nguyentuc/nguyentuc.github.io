@@ -32,6 +32,9 @@ redirect_from:
 ====== -->
 <h2 style="color:#87CEEB">Publications</h2>
 <hr>
+**Unraveling Interwoven Roles of Large Language Models in Authorship Privacy: Obfuscation, Mimicking, and Verification**   
+*__Tuc Nguyen__,  Yifan Hu, Thai Le*   
+<span style="color: blue; font-weight: bold;;">EMNLP 2025</span>
 
 **NoMatterXAI: Generating "No Matter What" Alterfactual Examples for Explaining Black-Box Text Classification Models**   
 *__Tuc Nguyen__,  James Michels, Hua Shen, Thai Le*   
