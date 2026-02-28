@@ -6,5 +6,8 @@ venue: "arXiv, 2026"
 award: ""
 authors: 'Yueru Yan, <b>Tuc Nguyen</b>, Bo Su, Melissa Lieffers, Thai Le'
 paper: "https://arxiv.org/abs/2512.17843"
-dataset: "https://huggingface.co/datasets/tucnguyen/ShareChat"
+code: "https://huggingface.co/datasets/tucnguyen/ShareChat"
+blog: ""
+slide: ""
+talk: ""
 ---
